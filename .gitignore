@@ -1,0 +1,19 @@
+# editor config
+.vscode
+
+# libraries and guides
+lib*
+cp*
+
+# I/O files
+**/in*.txt
+**/out*.txt
+
+# generated files
+**/*.o
+**/*.out
+**/*.obj
+**/*.exe
+
+# unsolved problems
+**/_*.*
