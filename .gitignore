@@ -4,6 +4,7 @@
 # libraries and guides
 lib*
 cp*
+ref*
 
 # I/O files
 **/in*.txt
